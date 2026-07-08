@@ -1,0 +1,6 @@
+{
+  "name": "MRP - Alokasi SPK",
+  "description": "Aplikasi Material Requirements Planning untuk otomasi pemecahan dan alokasi bahan baku berdasarkan Surat Perintah Kerja (SPK).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
